@@ -93,13 +93,13 @@ Unzip and double-click the .exe file.
 ### Linux
 
 ```bash
-chmod +x Vehicle_game.x86_64
-./Vehicle_game.x86_64
+chmod +x Prototype_2_Linux.x86_64
+./Prototype_2_Linux.x86_64
 ```
 
 ### Web
 
-Play on [browser](https://vpekdas.github.io/unity-junior-player-control-prototype-2/)
+Play on [browser](https://vpekdas.github.io/unity-junior-basic-gameplay-prototype-2/)
 
 ## Credits
 
